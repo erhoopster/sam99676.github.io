@@ -9,9 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 #CURRENTLY DO NOT HAVE ANYTHING OTHER THAN sam99676.gethub.io
 url: "" # the base hostname & protocol for your site
 
-#twitter_username: SDelamarter44
-#github_username:  sam99676
-
+twitter_username: SDelamarter44
+github_username:  sam99676
 
 # Build settings
 markdown: kramdown
