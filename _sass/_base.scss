@@ -170,6 +170,22 @@ pre {
     }
 }
 
+/**
+ * Center
+ */
+ .center {
+   margin-right: auto;
+   margin-left: auto;
+
+   @include media-query($on-laptop){
+      width: 60%;
+   }
+   @include media-query($on-palm){
+      width: 90%;
+   }
+
+ }
+
 
 
 /**
